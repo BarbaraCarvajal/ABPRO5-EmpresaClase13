@@ -1,7 +1,6 @@
 package empresaclase13;
 /**
- * @author 
-Luis Zenteno - Barbara Carvajal - Maria Fernanda
+ * @author Luis Zenteno, Barbara Carvajal, María-Fernanda Villalobos
 */
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

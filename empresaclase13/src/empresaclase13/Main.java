@@ -4,7 +4,7 @@
 package empresaclase13;
 import java.util.Scanner;
 /**
- * @author Luis Zenteno - Barbara Carvajal - Maria Fernanda
+ * @author Luis Zenteno, Barbara Carvajal, María-Fernanda Villalobos
  */
 
 /**

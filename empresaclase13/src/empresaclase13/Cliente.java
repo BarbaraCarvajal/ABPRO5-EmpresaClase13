@@ -3,7 +3,7 @@ package empresaclase13;
 import java.util.Scanner;
 
 /**
- * @author Luis Zenteno
+ * @author Luis Zenteno, Barbara Carvajal, María-Fernanda Villalobos
  * @version 1.0
  * 
  * Esta clase utilizara los siguientes parametros para cada metodo:
